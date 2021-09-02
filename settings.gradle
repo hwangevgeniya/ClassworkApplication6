@@ -1,0 +1,2 @@
+rootProject.name = "ClassworkApplication6"
+include ':app'
